@@ -100,7 +100,7 @@ The VDeH method has been further extended and validated in the NLP domain for la
 
 > **LLMs Meet Isolation Kernel: Lightweight, Learning-free Binary Embeddings for Fast Retrieval**  
 > Zhibo Zhang, Yang Xu, Kai Ming Ting, Cam-Tu Nguyen  
-> *ACL 2026* (Accepted)
+> *ACL 2026*    
 
 The code for this extension is available at: [https://github.com/Zed-Zed-b/IK_Emb](https://github.com/Zed-Zed-b/IK_Emb)
 
